@@ -1,0 +1,1 @@
+# 0001_howto_elasticsearch_storage
